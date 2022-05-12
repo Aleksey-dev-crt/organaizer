@@ -16,10 +16,6 @@ export class DataHandlerService {
     this.fillTasks();
   }
 
-  // getCategories(): Category[] {
-  //   return TestData.categories
-  // }
-
   fillTasks() {
     this.tasksSubject.next(TestData.tasks);
   }
