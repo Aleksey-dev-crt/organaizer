@@ -8,8 +8,6 @@ _Данный проект представляет собой веб прило
 
 Приложение разработано с помощью Angular. В приложении используются тестовые данные.
 
-*статус проекта: завершен*
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
